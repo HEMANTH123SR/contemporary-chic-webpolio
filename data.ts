@@ -533,7 +533,8 @@ export const linkedinData = [
     isHiring: false,
     profilePicture:
       "https://media.licdn.com/dms/image/D5603AQH9Nc4dIeKxMA/profile-displayphoto-shrink_800_800/0/1697648528219?e=1720051200&v=beta&t=Bt5yyFyDHckFNpGpl4L3HSwdRV6Vq-Xk1YGEkwDKVt8",
-    summary: "",
+    summary:
+      "A passionate and driven engineering student at REVA University, pursuing a Bachelor's degree in Computer Science with a specialization in IoT, Cybersecurity, and Blockchain technology. Eager to embrace emerging technologies and contribute to innovative solutions. Actively involved as a Technical Team Member at OSCode and a Campus Ambassador for Move Developers DAO",
     headline:
       "Passionate Engineering Student Eager to Embrace Emerging Technologies",
     geo: {
