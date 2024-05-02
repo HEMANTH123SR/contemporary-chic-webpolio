@@ -52,7 +52,7 @@ export default function Template2({ params }: { params: { id: string } }) {
                 style={{ backgroundImage: "url('1280_-_MAX.jpg')" }}
             >
                 <div className="flex w-full">
-                    <h1 className="w-4/5 text-7xl sm:text-8xl xl:text-9xl">
+                    <h1 className="w-full md:w-4/5 text-7xl sm:text-8xl xl:text-9xl">
                         {user.firstName.toUpperCase()}
                         <br />
                         {user.lastName.toUpperCase()}
@@ -112,9 +112,9 @@ export default function Template2({ params }: { params: { id: string } }) {
                         </h2>
                         <h2 className="text-xl md:text-2xl xl:text-3xl font-light ">
                             {user.summary
-                                .slice(0, showAllSummarry ? user.summary.length : 400)
+                                .slice(0, showAllSummarry ? user.summary.length : 250)
                                 .toUpperCase()}
-                            {user.summary.length > 400 && (
+                            {user.summary.length > 250 && (
                                 <span
                                     className="underline pl-2 cursor-pointer"
                                     onClick={() => {
