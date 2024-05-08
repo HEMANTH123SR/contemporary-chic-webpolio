@@ -4913,7 +4913,8 @@ export const linkedinData = [
     isHiring: false,
     profilePicture:
       "https://media.licdn.com/dms/image/D5603AQHAiaxVzGDB4g/profile-displayphoto-shrink_800_800/0/1706114561364?e=1720656000&v=beta&t=vtRSHkLmFm4zPPMdXc5sQXR5fh9KhgR3_pm8J-J9ivM",
-    summary: "",
+    summary:
+      "An accomplished Validation Engineer with a diverse background working at esteemed companies like Intel, Microsoft, and Mavenir. Proficient in cloud computing technologies such as Azure, Kubernetes, and OpenStack, complemented by strong programming skills in Python. Adept at leveraging cutting-edge technologies to drive innovation and ensure product quality. Holds valuable certifications, including Microsoft Certified: Azure Fundamentals and AWS Academy Cloud Foundations. Possesses a Master's degree in Computer Science from Christ University, Bangalore, and a BCA from St. Claret College. Demonstrates a keen passion for continuous learning and professional growth in the ever-evolving tech landscape.",
     headline: "Validation Engineer at Intel | Ex-Microsoft | Ex-Mavenir",
     geo: {
       country: "India",
