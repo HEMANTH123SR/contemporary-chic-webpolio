@@ -5569,6 +5569,73 @@ export const linkedinData = [
       en: "Validation Engineer at Intel | Ex-Microsoft | Ex-Mavenir",
     },
   },
+  {
+    urn: "ACoAAExxGtsB5vdMHYwWHh3FioaW7zxoLciUJfQ",
+    username: "hamsa-k-50b6002b9",
+    firstName: "Hamsa",
+    lastName: "K",
+    isOpenToWork: false,
+    isHiring: false,
+    profilePicture:
+      "https://media.licdn.com/dms/image/D5603AQEcrJLZZYI0ow/profile-displayphoto-shrink_800_800/0/1712584701948?e=1720656000&v=beta&t=zweGPW3rcQKCI61xGkImrV4D28ZVkEftofPZPeMqnXw",
+    summary:
+      "An ambitious and driven engineering student currently pursuing a Bachelor's degree in Electronics and Communication Engineering from MVJ College of Engineering, Bangalore, India. Equipped with a strong foundation in the fundamentals of electronics, communication systems, and digital signal processing. Passionate about exploring and mastering cutting-edge technologies in the field of electronics and communications. Possesses excellent analytical and problem-solving abilities, with a keen interest in developing innovative solutions to complex challenges. Committed to continuous learning and professional development, actively seeking internship opportunities to gain practical experience and exposure to the industry. Eager to contribute fresh perspectives and ideas while collaborating with experienced professionals. Ultimately aims to secure a challenging role in the electronics or telecommunications sector, where I can apply my knowledge and skills to drive meaningful impact.",
+    headline: "Attended MVJ College of Engineering, Bangalore, India",
+    geo: {
+      country: "India",
+      city: "Bengaluru, Karnataka",
+      full: "Bengaluru, Karnataka, India",
+    },
+    languages: null,
+    educations: [
+      {
+        start: {
+          year: 2022,
+          month: 0,
+          day: 0,
+        },
+        end: {
+          year: 0,
+          month: 0,
+          day: 0,
+        },
+        fieldOfStudy: "Electronics and communication ",
+        degree: "Bachelor of Engineering - BE",
+        grade: "",
+        schoolName: "MVJ College of Engineering, Bangalore, India",
+        description: "",
+        activities: "",
+        url: "https://www.linkedin.com/school/mvj-college-of-engineering-bangalore-india/",
+        schoolId: "2817173",
+      },
+    ],
+    position: null,
+    fullPositions: null,
+    skills: null,
+    givenRecommendation: null,
+    givenRecommendationCount: 0,
+    receivedRecommendation: null,
+    receivedRecommendationCount: 0,
+    courses: null,
+    certifications: null,
+    honors: null,
+    volunteering: null,
+    supportedLocales: [
+      {
+        country: "US",
+        language: "en",
+      },
+    ],
+    multiLocaleFirstName: {
+      en: "Hamsa",
+    },
+    multiLocaleLastName: {
+      en: "K",
+    },
+    multiLocaleHeadline: {
+      en: "Attended MVJ College of Engineering, Bangalore, India",
+    },
+  },
 ];
 
 // hemanth 0
@@ -5585,4 +5652,5 @@ export const linkedinData = [
 // gyanshu 11
 // harsha 12
 // Shadan 13
-//Riya
+//Riya 14
+// hamsa 15
